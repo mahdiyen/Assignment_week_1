@@ -1,2 +1,2 @@
-# Assignment_week_1
-This is the Assignment of first week in Programming1 course
+# Programmin1_Assignments
+In this repository all assignments of programming 1 course is added in the format of .html and .ipynb
